@@ -4,44 +4,44 @@
 ### BreakPlaceLogger
 ブロック破壊・設置をログに保存します。  
 [Download](https://forum.mcbe.jp/resources/296/)
-> 荒らし対策・ログ系
+***
 
 
 ### CommandLogger
 使用したコマンドをログに保存します。  
 [Download](https://forum.mcbe.jp/resources/294/)
-> 荒らし対策・ログ系
+***
 
 
 ### PlayerInfoLogger
 プレイヤーのIPやHOSTなどを記録します。  
 ゲーム内からもログを見ることができます。  
 [Download](https://forum.mcbe.jp/resources/381/)
-> 情報表示・ログ系
+***
 
 
 ### WhereIsPlayer
 プレイヤーの座標を一覧で見れます。  
 [Download](https://forum.mcbe.jp/resources/293/)
-> 情報表示系
+***
 
 
 ### QuitReason
 プレイヤーがサーバーを去った原因を表示できます。  
 [Download](https://forum.mcbe.jp/resources/382/)
-> 情報表示系
+***
 
 
 ### FurnaceGuard
 かまど保護プラグインです。  
 [Download](https://forum.mcbe.jp/resources/380/)
-> 荒らし対策系
+***
 
 
 ### FrameGuard
 額縁保護プラグインです。  
 [Download](https://forum.mcbe.jp/resources/323/)
-> 荒らし対策系
+***
 
 
 ### TimeSet
@@ -49,4 +49,4 @@
 ワールド別に時間を設定したり、  
 ワールド読み込み時の時間を設定したりできます。  
 [Download](https://forum.mcbe.jp/resources/397/)
-> ワールド管理系
+***
