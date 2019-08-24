@@ -1,5 +1,6 @@
 # My-Plugins
-私が mcbe forum にて配布を行っているプラグインです
+私が mcbe forum にて配布を行っているプラグインです  
+プラグインについての連絡は MCBE forum 若しくはここの Issues にてお願いします。
 ***
 ### BreakPlaceLogger
 ブロック破壊・設置をログに保存します。  
