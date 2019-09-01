@@ -51,3 +51,8 @@
 ワールド読み込み時の時間を設定したりできます。  
 [Download](https://forum.mcbe.jp/resources/397/)
 ***
+
+### EasyScoreBoardAPI
+スコアボードをプレイヤーに表示することができるAPIです
+[GitHub](https://github.com/Saisana299/EasyScoreboardAPI)
+***
