@@ -53,6 +53,6 @@
 ***
 
 ### EasyScoreBoardAPI
-スコアボードをプレイヤーに表示することができるAPIです
+スコアボードをプレイヤーに表示することができるAPIです  
 [GitHub](https://github.com/Saisana299/EasyScoreboardAPI)
 ***
