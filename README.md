@@ -63,3 +63,8 @@ BanしたアイテムをOP以外が使えないようにするプラグイン
 [GitHub](https://github.com/Saisana299/BanItemPlus)  
 [MCBE Forum](https://forum.mcbe.jp/resources/406/)
 ***
+
+### BreakAlert
+ツール類が壊れる前に警告します
+[ダウンロード](https://forum.mcbe.jp/resources/408/)
+***
