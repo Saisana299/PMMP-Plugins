@@ -57,3 +57,9 @@
 [GitHub](https://github.com/Saisana299/EasyScoreboardAPI)  
 [MCBE Forum](https://forum.mcbe.jp/resources/403/)
 ***
+
+### BanItemPlus
+BanしたアイテムをOP以外が使えないようにするプラグイン  
+[GitHub](https://github.com/Saisana299/BanItemPlus)  
+[MCBE Forum](https://forum.mcbe.jp/resources/406/)
+***
