@@ -68,3 +68,8 @@ BanしたアイテムをOP以外が使えないようにするプラグイン
 ツール類が壊れる前に警告します  
 [ダウンロード](https://forum.mcbe.jp/resources/408/)
 ***
+
+### FixedTransferserver
+/transferserverによって起こるプラグインのエラーを防ぐ  
+[ダウンロード](https://forum.mcbe.jp/resources/410/)
+***
