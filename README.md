@@ -1,4 +1,4 @@
-# My-Plugins
+# PMMP-Plugins
 私が mcbe forum にて配布を行っているプラグインです  
 プラグインについての連絡は MCBE forum 若しくはここの Issue にてお願いします。
 ***
