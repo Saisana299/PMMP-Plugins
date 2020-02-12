@@ -73,3 +73,23 @@ BanしたアイテムをOP以外が使えないようにするプラグイン
 /transferserverによって起こるプラグインのエラーを防ぐ  
 [ダウンロード](https://forum.mcbe.jp/resources/410/)
 ***
+
+### Countdown
+いろいろなカウントダウンができます
+[ダウンロード](https://forum.mcbe.jp/resources/449/)
+***
+
+### SnowballFight
+単純な雪合戦プラグインです
+[ダウンロード](https://forum.mcbe.jp/resources/443/)
+***
+
+### SetItemLore
+アイテムの説明文を編集することが出来るプラグインです
+[ダウンロード](https://forum.mcbe.jp/resources/446/)
+***
+
+### Broadcasts
+Tip、Popup、Titleを全員に送信するコマンドを追加します
+[ダウンロード](https://forum.mcbe.jp/resources/445/)
+***
